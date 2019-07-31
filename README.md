@@ -11,7 +11,7 @@ https://docs.opencv.org/3.4/df/d25/classcv_1_1face_1_1LBPHFaceRecognizer.html
 2. Run the face_train.py and then the .yml file will be created
 3. After the training completed, then the face_detection can be run.
 
-'''python
+```python
 python face_train.py
 python face_detection.py
-'''
+```
